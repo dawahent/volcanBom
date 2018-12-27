@@ -1,2 +1,0 @@
-# volcanBom
-made for fortune
